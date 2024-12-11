@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-namespace Assignment18
+namespace Assignment8
 {
     public struct Position
     {
@@ -58,7 +58,6 @@ namespace Assignment18
         public Soldier() : base() { }
         public override void DisplayInfo()
         {
-            Debug.Log("soldier");
             base.DisplayInfo();
         }
     }
