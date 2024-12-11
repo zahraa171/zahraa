@@ -16,6 +16,9 @@ public class Multipilication : MonoBehaviour
         {
             int result = Multiply(5, i);
             Debug.Log($"{5}*{i} ={result}");
+                        Debug.Log($"{5}*{i} ={result}");
+
+            
         }
     }
 
